@@ -67,6 +67,10 @@
   margin: 6px;
 }
 
+.saveloadbox {
+  width: 90px;
+}
+
 body{
   background-color: darkblue;
   height: 100%;
