@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: kevintoombs.github.io
+Token: f19ebaf1574ebd840552b9b9bddf38f75139dc34fe12c30128c92411b5f14dcf
